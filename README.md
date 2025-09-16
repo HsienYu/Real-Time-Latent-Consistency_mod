@@ -208,8 +208,3 @@ Notes:
 * [latent-consistency/Real-Time-LCM-ControlNet-Lora-SD1.5](https://huggingface.co/spaces/latent-consistency/Real-Time-LCM-ControlNet-Lora-SD1.5)  
 * [latent-consistency/Real-Time-LCM-Text-to-Image-Lora-SD1.5](https://huggingface.co/spaces/latent-consistency/Real-Time-LCM-Text-to-Image-Lora-SD1.5)  
 * [radames/Real-Time-Latent-Consistency-Model-Text-To-Image](https://huggingface.co/spaces/radames/Real-Time-Latent-Consistency-Model-Text-To-Image)  
-
-
-
-
-https://github.com/radames/Real-Time-Latent-Consistency-Model/assets/102277/c4003ac5-e7ff-44c0-97d3-464bb659de70
