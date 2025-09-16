@@ -1,4 +1,8 @@
+
+
 # Real-Time Latent Consistency Model
+
+Original repo from https://github.com/radames/Real-Time-Latent-Consistency-Model?tab=readme-ov-file, many thanks!
 
 This demo showcases [Latent Consistency Model (LCM)](https://latent-consistency-models.github.io/) using [Diffusers](https://huggingface.co/docs/diffusers/using-diffusers/lcm) with a MJPEG stream server. You can read more about LCM + LoRAs with diffusers [here](https://huggingface.co/blog/lcm_lora).
 
@@ -26,9 +30,6 @@ Don't forget to fuild the frontend!!!
 ```bash
 cd frontend && npm install && npm run build && cd ..
 ```
-
-# Pipelines
-You can build your own pipeline following examples here [here](pipelines),
 
 
 # LCM
