@@ -1,14 +1,3 @@
----
-title: Real-Time Latent Consistency Model Image-to-Image ControlNet
-emoji: 🖼️🖼️
-colorFrom: gray
-colorTo: indigo
-sdk: docker
-pinned: false
-suggested_hardware: a10g-small
-disable_embedding: true
----
-
 # Real-Time Latent Consistency Model
 
 This demo showcases [Latent Consistency Model (LCM)](https://latent-consistency-models.github.io/) using [Diffusers](https://huggingface.co/docs/diffusers/using-diffusers/lcm) with a MJPEG stream server. You can read more about LCM + LoRAs with diffusers [here](https://huggingface.co/blog/lcm_lora).
