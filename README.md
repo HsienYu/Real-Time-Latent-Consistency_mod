@@ -2,7 +2,7 @@
 
 # Real-Time Latent Consistency Model
 
-Original repo from https://github.com/radames/Real-Time-Latent-Consistency-Model?tab=readme-ov-file, many thanks!
+Original repo from https://github.com/radames/Real-Time-Latent-Consistency-Model, many thanks!
 
 This demo showcases [Latent Consistency Model (LCM)](https://latent-consistency-models.github.io/) using [Diffusers](https://huggingface.co/docs/diffusers/using-diffusers/lcm) with a MJPEG stream server. You can read more about LCM + LoRAs with diffusers [here](https://huggingface.co/blog/lcm_lora).
 
